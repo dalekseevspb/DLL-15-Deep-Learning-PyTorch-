@@ -11,3 +11,5 @@ HW #4 - Modern NN on PyTorch: ResNet18 vs VGG16, Fine-tuning, Augmentation. [Hym
 HW #5 - RNN on PyTorch (#1): Caesar cipher [@'onegin.txt'], message generation [@'data.csv']
 
 HW #6 - RNN on PyTorch (#2): RNN, LSTM, GRU
+
+HW #7 - RNN on PyTorch (#3): Translating Eng-Rus @Seq2seq (1-&2-layers GRU,  LSTM)
