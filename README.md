@@ -13,3 +13,6 @@ HW #5 - RNN on PyTorch (#1): Caesar cipher [@'onegin.txt'], message generation [
 HW #6 - RNN on PyTorch (#2): RNN, LSTM, GRU
 
 HW #7 - RNN on PyTorch (#3): Translating Rus-Eng @Seq2seq (1-&2-layers GRU,  LSTM)
+
+HW #7(corr) - RNN on PyTorch (#3): Translating Rus-Eng @Seq2seq (1-&2-layers GRU,  LSTM). 
+[Corrected LSTM]. For fast example: 'eng-rus_prepared_example.txt'
