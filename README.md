@@ -16,3 +16,5 @@ HW #7 - RNN on PyTorch (#3): Translating Rus-Eng @Seq2seq (1-&2-layers GRU,  LST
 
 HW #7(corr) - RNN on PyTorch (#3): Translating Rus-Eng @Seq2seq (1-&2-layers GRU,  LSTM). 
 [Corrected LSTM]. For fast example: 'eng-rus_prepared_example.txt'
+
+HW #9 - Computer Vision on PyTorch (#1): Single Shot Detection @BCCD_Dataset (Blood cells recognition using VGG16)
