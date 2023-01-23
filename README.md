@@ -25,3 +25,5 @@ Full corpus: 'eng-rus_prepared_full.zip'
 HW #9 - Computer Vision on PyTorch (#1): Single Shot Detection @BCCD_Dataset (Blood cells recognition using VGG16)
 
 HW #12 - Работа с текстом (#1): 'Word2Vec' vs 'FastText', визуализация эмбеддингов ТОП-1000 самых частотных слов с помощью PCA.
+
+HW #13 - Работа с текстом (#2): реализация задачи классификации на основе BERT-like модели и KNN (на данных "Russian Intents Dataset")
