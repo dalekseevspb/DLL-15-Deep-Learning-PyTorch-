@@ -27,3 +27,5 @@ HW #9 - Computer Vision on PyTorch (#1): Single Shot Detection @BCCD_Dataset (Bl
 HW #12 - Работа с текстом (#1): 'Word2Vec' vs 'FastText', визуализация эмбеддингов ТОП-1000 самых частотных слов с помощью PCA.
 
 HW #13 - Работа с текстом (#2): реализация задачи классификации на основе BERT-like модели и KNN (на данных "Russian Intents Dataset")
+
+HW #13(corr) - Работа с текстом (#2), исправленное: Обучение KNN на эмбеддингах из Bert-подобной сети, с использованием библиотеки nmslib (см.п.3)
