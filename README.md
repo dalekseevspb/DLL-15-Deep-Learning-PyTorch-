@@ -31,3 +31,5 @@ HW #13 - Работа с текстом (#2): реализация задачи 
 HW #13(corr) - Работа с текстом (#2), исправленное: Классификация методом KNN на эмбеддингах из Bert-like модели, с использованием библиотеки nmslib (см.п.3)
 
 HW #10 - Computer Vision on PyTorch (#2): семантическая сегментация с использованием архитектуры U-Net
+
+HW #11 - Computer Vision on PyTorch (#3): adversarial attacks. [MNIST @ LeNet; реализация атаки методом "The Fast Gradient Sign Method (FGSM)"]
