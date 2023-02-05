@@ -33,3 +33,5 @@ HW #13(corr) - Работа с текстом (#2), исправленное: К
 HW #10 - Computer Vision on PyTorch (#2): семантическая сегментация с использованием архитектуры U-Net
 
 HW #11 - Computer Vision on PyTorch (#3): adversarial attacks. [MNIST @ LeNet; реализация атаки методом "The Fast Gradient Sign Method (FGSM)"]
+
+HW #14 - Generative Adversarial Networks (GANs): Anime faces generator @ DCGAN (Deep Convolutional GAN).
