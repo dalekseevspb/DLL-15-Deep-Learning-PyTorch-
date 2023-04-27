@@ -1,4 +1,4 @@
-# DLL-15
+# DLL-15  (Deep Learning @ PyTorch)
 
 HW #1 - Perceptron (Linear Regression) on PyTorch. Boston housing prices
 
